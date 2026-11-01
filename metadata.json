@@ -1,0 +1,6 @@
+{
+  "uuid": "hide-show-apps@local",
+  "name": "Hide Show Apps Button",
+  "description": "Hides the Show Apps button in the dash; apps are found through search.",
+  "shell-version": ["51"]
+}
